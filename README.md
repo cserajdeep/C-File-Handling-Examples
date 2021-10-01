@@ -1,2 +1,17 @@
-# C-File-Handling-Examples
-C-File-Handling-Tutorial
+```ruby
+char ch; 
+  FILE *f = fopen("file1.txt", "w");
+  do{
+  ch = getchar();
+  if((ch!='q') && (ch!='Q'))
+    fputc(ch, f);
+  else
+    break;
+
+  }while(1);
+
+  fclose(f);
+```
+
+# File Handling Examples using C
+
