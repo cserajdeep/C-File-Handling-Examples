@@ -1,0 +1,9 @@
+
+Name: AA 
+Marks=75 
+
+Name: BB 
+Marks=56 
+
+Name: CC 
+Marks=98 
